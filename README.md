@@ -1,4 +1,4 @@
-# hack-a-thing-2-arthing
+# hack-a-thing-2-webapp
 
 Description:
 Followed this tutorial to get some exposure to creating a webapp.
@@ -8,5 +8,3 @@ Learned:
 Learned some concepts like what a progressive web app is, what an app shell is,
 and how caching ensures faster performance.
 Familiarized with Chrome DevTools for debugging service workers, HTML, CSS, JavaScript.
-
-What didn’t work:
